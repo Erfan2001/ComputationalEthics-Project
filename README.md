@@ -26,7 +26,7 @@ The project is divided into 3 sections including:
 
 ## How to run:
 
-    run the main.py file
+run the main.py file
 
     `python main.py`
 
