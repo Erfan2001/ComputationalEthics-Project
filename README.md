@@ -25,11 +25,9 @@ The project is divided into 3 sections including:
 3. Scenarios
 
 ## How to run:
-``
-run the main.py file
 
-`python main.py`
+    run the main.py file
 
-``
+    `python main.py`
 
 Spring 2023
