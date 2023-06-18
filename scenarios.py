@@ -318,5 +318,3 @@ def false_negative_rumor():
         return a1
     else:
         return a2
-
-
