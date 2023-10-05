@@ -14,7 +14,7 @@ Compose articles in the English language, adhering to a scientific structure tha
 
 Conclude the research endeavor by meticulously editing and finalizing an English report structured in accordance with scientific norms, providing a comprehensive account of the three-stage process.
 
-## Result
+## Members & Files:
 
 Team Members:
 * Seyed Erfan Nourbakhsh
@@ -28,8 +28,12 @@ Team Members:
 Master: Ms.Nassiri-Mofakham
 
 Presentation Link: [https://drive.google.com/file/d/15wRuGV95t8c1Q6kel-pGn-paAf-CX2rt/view](https://drive.google.com/file/d/1b2hlq0Pni1sZEAwr5Ok7uQoWxesl__GJ/view)
+English Paper: [https://drive.google.com/file/d/1pvOeQ90tvouvuLcfG1lPxeN-k5BdmjgM/view?usp=sharing](https://drive.google.com/file/d/1pvOeQ90tvouvuLcfG1lPxeN-k5BdmjgM/view?usp=sharing)
+Persian Paper: [https://drive.google.com/file/d/1_G5NBFFceFdVRoGIc_Z1dVXh9WgUifyk/view?usp=sharing](https://drive.google.com/file/d/1_G5NBFFceFdVRoGIc_Z1dVXh9WgUifyk/view?usp=sharing)
 
-Overview: Generally our project is based on Python code.
+## Result:
+
+Generally, our project is based on Python code.
 
 The project is divided into 3 sections including:
 1. Basic Computations
