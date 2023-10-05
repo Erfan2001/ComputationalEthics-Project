@@ -1,8 +1,4 @@
-### In The Name Of God
-***
-Computational Ethics Project
-
-Exercise Code: ET2023-HW03-Part3-p2-Nothing
+# Computational Ethics Project
 
 Team Members:
 * Seyed Erfan Nourbakhsh
