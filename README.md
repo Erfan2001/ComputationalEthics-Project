@@ -1,18 +1,5 @@
 # Computational Ethics Project
 
-Team Members:
-* Seyed Erfan Nourbakhsh
-* Ebrahim Ghafourzadeh
-* Mohammad Rafeian
-* Behnam Mosayebi
-* Mahdi Ghanbarzadeh
-* Ali Sharifi
-* Mohammad Zaatar
-
-Master: Ms.Nassiri-Mofakham
-
-Presentation Link: [https://drive.google.com/file/d/15wRuGV95t8c1Q6kel-pGn-paAf-CX2rt/view](https://drive.google.com/file/d/1b2hlq0Pni1sZEAwr5Ok7uQoWxesl__GJ/view)
-
 ## Project description:
 
 Initiate the research process by thoroughly studying and analyzing the ethics school, drawing insights from lesson sessions found in the third book or the appendix of the first book. Subsequently, select this ethics school as the sole perspective to be adopted by your research team for the entire project.
@@ -28,6 +15,20 @@ Compose articles in the English language, adhering to a scientific structure tha
 Conclude the research endeavor by meticulously editing and finalizing an English report structured in accordance with scientific norms, providing a comprehensive account of the three-stage process.
 
 ## Result
+
+Team Members:
+* Seyed Erfan Nourbakhsh
+* Ebrahim Ghafourzadeh
+* Mohammad Rafeian
+* Behnam Mosayebi
+* Mahdi Ghanbarzadeh
+* Ali Sharifi
+* Mohammad Zaatar
+
+Master: Ms.Nassiri-Mofakham
+
+Presentation Link: [https://drive.google.com/file/d/15wRuGV95t8c1Q6kel-pGn-paAf-CX2rt/view](https://drive.google.com/file/d/1b2hlq0Pni1sZEAwr5Ok7uQoWxesl__GJ/view)
+
 Overview: Generally our project is based on Python code.
 
 The project is divided into 3 sections including:
