@@ -27,7 +27,7 @@ Team Members:
 
 Master: Ms.Nassiri-Mofakham
 
-Presentation Link: [https://drive.google.com/file/d/15wRuGV95t8c1Q6kel-pGn-paAf-CX2rt/view](https://drive.google.com/file/d/1b2hlq0Pni1sZEAwr5Ok7uQoWxesl__GJ/view)
+Presentation Link(Persian): [https://drive.google.com/file/d/15wRuGV95t8c1Q6kel-pGn-paAf-CX2rt/view](https://drive.google.com/file/d/1b2hlq0Pni1sZEAwr5Ok7uQoWxesl__GJ/view)
 
 English Paper: [https://drive.google.com/file/d/1pvOeQ90tvouvuLcfG1lPxeN-k5BdmjgM/view?usp=sharing](https://drive.google.com/file/d/1pvOeQ90tvouvuLcfG1lPxeN-k5BdmjgM/view?usp=sharing)
 
